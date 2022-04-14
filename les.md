@@ -1,20 +1,20 @@
 .INT. SAGE AND BRIAN'S APARTMENT - NIGHT
 !The apartment is a typical Stuytown squeeze: no light, cramped, and rent stabilized.
 
-@SAGE
-Ew. Het-norm much?
+        @SAGE
+    Ew. Het-norm much?
 
-@BRIAN
-Me?
+        @BRIAN
+    Me?
 
-@SAGE
-Yes, you.
+        @SAGE
+    Yes, you.
 
-@BRIAN
-Babe.
+        @BRIAN
+    Babe.
 
-@SAGE
-Don't *babe* me, straggot.
+        @SAGE
+    Don't *babe* me, straggot.
 
-@BRIAN
-I gag. 
+        @BRIAN
+    I gag. 
